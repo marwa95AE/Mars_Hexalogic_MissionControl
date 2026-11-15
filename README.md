@@ -59,9 +59,12 @@ To maintain scientific rigor and traceability, all empirical values and environm
 
 ## 5. Research & Engineering Team (HexaLogic)
 
-* **Marwa** — Lead Frontend Architect, Interactive Visualization & UI/UX Engineering
-* **Marwan** — Telemetry Data Integration & Systems Development
-* **Rahma** — Planetary Analog Research & Scientific Documentation
+* **Marwa** 
+* **Marwan** 
+* **Rahma**
+* **Mahmoud**
+* **Mustafa**
+* **Rasha**
 
 ---
 
